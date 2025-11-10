@@ -1,0 +1,3267 @@
+fileFormatVersion: 2
+guid: dec9a3a3c6661ee43954ba78dd987151
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7710246337334909350
+    second: sprite_LogoStart_0
+  - first:
+      213: 6558629623124729657
+    second: sprite_LogoStart_1
+  - first:
+      213: -2671649135367290073
+    second: sprite_LogoStart_2
+  - first:
+      213: 7136390301616074145
+    second: sprite_LogoStart_3
+  - first:
+      213: 2364340251377368796
+    second: sprite_LogoStart_4
+  - first:
+      213: 1921949767086277170
+    second: sprite_LogoStart_5
+  - first:
+      213: -8410203404026313579
+    second: sprite_LogoStart_6
+  - first:
+      213: -5364739942688912245
+    second: sprite_LogoStart_7
+  - first:
+      213: -999594088064246476
+    second: sprite_LogoStart_8
+  - first:
+      213: 6239148221709593054
+    second: sprite_LogoStart_9
+  - first:
+      213: -2893438842026752955
+    second: sprite_LogoStart_10
+  - first:
+      213: -5881137586783099170
+    second: sprite_LogoStart_11
+  - first:
+      213: 8859663427770786365
+    second: sprite_LogoStart_12
+  - first:
+      213: 8242194032982508225
+    second: sprite_LogoStart_13
+  - first:
+      213: 1992372115483849018
+    second: sprite_LogoStart_14
+  - first:
+      213: 2064503973108914254
+    second: sprite_LogoStart_15
+  - first:
+      213: 2040743355295014012
+    second: sprite_LogoStart_16
+  - first:
+      213: -6529134069056939749
+    second: sprite_LogoStart_17
+  - first:
+      213: 1307309213185109685
+    second: sprite_LogoStart_18
+  - first:
+      213: 6296607660291887494
+    second: sprite_LogoStart_19
+  - first:
+      213: 4618430532625423697
+    second: sprite_LogoStart_20
+  - first:
+      213: 7875237653120877578
+    second: sprite_LogoStart_21
+  - first:
+      213: -5654065145682908547
+    second: sprite_LogoStart_22
+  - first:
+      213: 6481844738183996714
+    second: sprite_LogoStart_23
+  - first:
+      213: 3853513136627288863
+    second: sprite_LogoStart_24
+  - first:
+      213: 1886823692480394128
+    second: sprite_LogoStart_25
+  - first:
+      213: 5941827328492208494
+    second: sprite_LogoStart_26
+  - first:
+      213: -1601301566836846487
+    second: sprite_LogoStart_27
+  - first:
+      213: -4520568651159425742
+    second: sprite_LogoStart_28
+  - first:
+      213: -7522438380423994474
+    second: sprite_LogoStart_29
+  - first:
+      213: -6940866823962760985
+    second: sprite_LogoStart_30
+  - first:
+      213: 8126778674613518140
+    second: sprite_LogoStart_31
+  - first:
+      213: 7489946479204727559
+    second: sprite_LogoStart_32
+  - first:
+      213: -546085395125631605
+    second: sprite_LogoStart_33
+  - first:
+      213: 4528579193804742440
+    second: sprite_LogoStart_34
+  - first:
+      213: -3017838796430815472
+    second: sprite_LogoStart_35
+  - first:
+      213: 8861148432831178283
+    second: sprite_LogoStart_36
+  - first:
+      213: -6578595037619028736
+    second: sprite_LogoStart_37
+  - first:
+      213: 6593983340338166631
+    second: sprite_LogoStart_38
+  - first:
+      213: 2935793524226966582
+    second: sprite_LogoStart_39
+  - first:
+      213: 1143517651286639529
+    second: sprite_LogoStart_40
+  - first:
+      213: -4098492426765851178
+    second: sprite_LogoStart_41
+  - first:
+      213: -1410449210195310642
+    second: sprite_LogoStart_42
+  - first:
+      213: -1045806104452823181
+    second: sprite_LogoStart_43
+  - first:
+      213: 5091441032276024719
+    second: sprite_LogoStart_44
+  - first:
+      213: 7474713524389617947
+    second: sprite_LogoStart_45
+  - first:
+      213: 9039225461668754047
+    second: sprite_LogoStart_46
+  - first:
+      213: 1961363197947585267
+    second: sprite_LogoStart_47
+  - first:
+      213: -5562000155254465573
+    second: sprite_LogoStart_48
+  - first:
+      213: -4268167038644171855
+    second: sprite_LogoStart_49
+  - first:
+      213: -3591127951144694834
+    second: sprite_LogoStart_50
+  - first:
+      213: 7963313897904962796
+    second: sprite_LogoStart_51
+  - first:
+      213: 4349472294069267156
+    second: sprite_LogoStart_52
+  - first:
+      213: -5393761489030033423
+    second: sprite_LogoStart_53
+  - first:
+      213: -489593138794110096
+    second: sprite_LogoStart_54
+  - first:
+      213: -7328524091985181684
+    second: sprite_LogoStart_55
+  - first:
+      213: -2345965178107605879
+    second: sprite_LogoStart_56
+  - first:
+      213: -5907012686735286211
+    second: sprite_LogoStart_57
+  - first:
+      213: -6870548787285077948
+    second: sprite_LogoStart_58
+  - first:
+      213: 848753384897171424
+    second: sprite_LogoStart_59
+  - first:
+      213: 8502034692837254208
+    second: sprite_LogoStart_60
+  - first:
+      213: 4175548393855346756
+    second: sprite_LogoStart_61
+  - first:
+      213: 1083610538408660098
+    second: sprite_LogoStart_62
+  - first:
+      213: -1273492550523696008
+    second: sprite_LogoStart_63
+  - first:
+      213: 105589394258524179
+    second: sprite_LogoStart_64
+  - first:
+      213: -6143788005439183838
+    second: sprite_LogoStart_65
+  - first:
+      213: -3483585844199459815
+    second: sprite_LogoStart_66
+  - first:
+      213: 3260860796105435043
+    second: sprite_LogoStart_67
+  - first:
+      213: -6603140855436657325
+    second: sprite_LogoStart_68
+  - first:
+      213: -1062378101387480231
+    second: sprite_LogoStart_69
+  - first:
+      213: 855378668065970225
+    second: sprite_LogoStart_70
+  - first:
+      213: -917108400509650414
+    second: sprite_LogoStart_71
+  - first:
+      213: -8175574919097023326
+    second: sprite_LogoStart_72
+  - first:
+      213: -4196838486297551306
+    second: sprite_LogoStart_73
+  - first:
+      213: 6223865178323392905
+    second: sprite_LogoStart_74
+  - first:
+      213: -8687437117039798306
+    second: sprite_LogoStart_75
+  - first:
+      213: -8436384767890293253
+    second: sprite_LogoStart_76
+  - first:
+      213: -2784524046974511738
+    second: sprite_LogoStart_77
+  - first:
+      213: -4373721527234418877
+    second: sprite_LogoStart_78
+  - first:
+      213: 4572533361118282108
+    second: sprite_LogoStart_79
+  - first:
+      213: -8369297925602148759
+    second: sprite_LogoStart_80
+  - first:
+      213: 2530962671094874856
+    second: sprite_LogoStart_81
+  - first:
+      213: -7436411611097285137
+    second: sprite_LogoStart_82
+  - first:
+      213: -6920357572884749758
+    second: sprite_LogoStart_83
+  - first:
+      213: 6144022607781061628
+    second: sprite_LogoStart_84
+  - first:
+      213: 3282804661621343632
+    second: sprite_LogoStart_85
+  - first:
+      213: -897323116928702118
+    second: sprite_LogoStart_86
+  - first:
+      213: -8454169830767536743
+    second: sprite_LogoStart_87
+  - first:
+      213: 5339171822810998313
+    second: sprite_LogoStart_88
+  - first:
+      213: 2309814903100716748
+    second: sprite_LogoStart_89
+  - first:
+      213: -474538932741883726
+    second: sprite_LogoStart_90
+  - first:
+      213: -6478021135373553490
+    second: sprite_LogoStart_91
+  - first:
+      213: -1822984683993849908
+    second: sprite_LogoStart_92
+  - first:
+      213: 8611077513555064240
+    second: sprite_LogoStart_93
+  - first:
+      213: -3737534296761849608
+    second: sprite_LogoStart_94
+  - first:
+      213: -5435841757390197849
+    second: sprite_LogoStart_95
+  - first:
+      213: 7006751498350667886
+    second: sprite_LogoStart_96
+  - first:
+      213: -2005050578752200142
+    second: sprite_LogoStart_97
+  - first:
+      213: 3628665336641937263
+    second: sprite_LogoStart_98
+  - first:
+      213: -6157773201087691613
+    second: sprite_LogoStart_99
+  - first:
+      213: 5062432856595708300
+    second: sprite_LogoStart_100
+  - first:
+      213: 7136042657543818980
+    second: sprite_LogoStart_101
+  - first:
+      213: -7204045180796431154
+    second: sprite_LogoStart_102
+  - first:
+      213: 3064901712126380190
+    second: sprite_LogoStart_103
+  - first:
+      213: 447946227010827310
+    second: sprite_LogoStart_104
+  - first:
+      213: 5102330448477436191
+    second: sprite_LogoStart_105
+  - first:
+      213: -4404807894055433030
+    second: sprite_LogoStart_106
+  - first:
+      213: -2428408267902775163
+    second: sprite_LogoStart_107
+  - first:
+      213: -3316865522632923841
+    second: sprite_LogoStart_108
+  - first:
+      213: 5359407055950658147
+    second: sprite_LogoStart_109
+  - first:
+      213: 6374490518309885126
+    second: sprite_LogoStart_110
+  - first:
+      213: -3837837185318854932
+    second: sprite_LogoStart_111
+  - first:
+      213: -650555764904925359
+    second: sprite_LogoStart_112
+  - first:
+      213: 8527293552484130737
+    second: sprite_LogoStart_113
+  - first:
+      213: 597436881804460216
+    second: sprite_LogoStart_114
+  - first:
+      213: 3175509743756708710
+    second: sprite_LogoStart_115
+  - first:
+      213: -7136376295222750484
+    second: sprite_LogoStart_116
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite_LogoStart_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56656c8ec3bff490800000000000000
+      internalID: -7710246337334909350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1600
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f14b3a4eee40b50800000000000000
+      internalID: 6558629623124729657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1600
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72304f134456cead0800000000000000
+      internalID: -2671649135367290073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_3
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1600
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad6e5a4b2d890360800000000000000
+      internalID: 7136390301616074145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_4
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1600
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde718b8ee2dfc020800000000000000
+      internalID: 2364340251377368796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_5
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1600
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232825751232caa10800000000000000
+      internalID: 1921949767086277170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_6
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1600
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5940b3e2094f84b80800000000000000
+      internalID: -8410203404026313579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_7
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1600
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c8dab127d9c85b0800000000000000
+      internalID: -5364739942688912245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_8
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1600
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d9955197ab022f0800000000000000
+      internalID: -999594088064246476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_9
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1600
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9a2005048e59650800000000000000
+      internalID: 6239148221709593054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_10
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1600
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5448da904b078d7d0800000000000000
+      internalID: -2893438842026752955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed668904680026ea0800000000000000
+      internalID: -5881137586783099170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1440
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d322cc172f8d3fa70800000000000000
+      internalID: 8859663427770786365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1440
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c244c1ddc7226270800000000000000
+      internalID: 8242194032982508225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_14
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1440
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31fecb02e356ab10800000000000000
+      internalID: 1992372115483849018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1440
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e481a82ec6796ac10800000000000000
+      internalID: 2064503973108914254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_16
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1440
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c1912f44d225c10800000000000000
+      internalID: 2040743355295014012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_17
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1440
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19d5f2382bd365a0800000000000000
+      internalID: -6529134069056939749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_18
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1440
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be6e7f8dce742210800000000000000
+      internalID: 1307309213185109685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_19
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1440
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68193b16e4b026750800000000000000
+      internalID: 6296607660291887494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_20
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1440
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15dd4f49916f71040800000000000000
+      internalID: 4618430532625423697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_21
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1440
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a040d04bbe67a4d60800000000000000
+      internalID: 7875237653120877578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a27aed4b9b881b0800000000000000
+      internalID: -5654065145682908547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1280
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2521b4727324f950800000000000000
+      internalID: 6481844738183996714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_24
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1280
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b88fde7cd6a7530800000000000000
+      internalID: 3853513136627288863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_25
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1280
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093b518c6285f2a10800000000000000
+      internalID: 1886823692480394128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_26
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1280
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e618c7f597c957250800000000000000
+      internalID: 5941827328492208494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_27
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1280
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960d96285b807c9e0800000000000000
+      internalID: -1601301566836846487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_28
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1280
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d20e443c6b341c0800000000000000
+      internalID: -4520568651159425742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_29
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1280
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693201a062eea9790800000000000000
+      internalID: -7522438380423994474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_30
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1280
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8e76cd5661daf90800000000000000
+      internalID: -6940866823962760985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_31
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1280
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ffe84a52e18c070800000000000000
+      internalID: 8126778674613518140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_32
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1280
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b7fafa3a2a1f760800000000000000
+      internalID: 7489946479204727559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1120
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b850286f93aeb68f0800000000000000
+      internalID: -546085395125631605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_34
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1120
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fd4f788ceb8de30800000000000000
+      internalID: 4528579193804742440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_35
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1120
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f49559a9b7e16d0800000000000000
+      internalID: -3017838796430815472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_36
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1120
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2669e02d8f19fa70800000000000000
+      internalID: 8861148432831178283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_37
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1120
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00df19d0ba224b4a0800000000000000
+      internalID: -6578595037619028736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_38
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1120
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b33bf59e8828b50800000000000000
+      internalID: 6593983340338166631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_39
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1120
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634c071e7a80eb820800000000000000
+      internalID: 2935793524226966582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_40
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1120
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a34457ce379edf00800000000000000
+      internalID: 1143517651286639529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_41
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1120
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d52ef34ada3f17c0800000000000000
+      internalID: -4098492426765851178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_42
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1120
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7049c8ae31d6ce0800000000000000
+      internalID: -1410449210195310642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_43
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1120
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377872093ec8c71f0800000000000000
+      internalID: -1045806104452823181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d19aba4ae68a640800000000000000
+      internalID: 5091441032276024719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_45
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 960
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b112d0309548bb760800000000000000
+      internalID: 7474713524389617947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 960
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72be6f5aa7c17d70800000000000000
+      internalID: 9039225461668754047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_47
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 960
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2a031df69283b10800000000000000
+      internalID: 1961363197947585267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_48
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 960
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbd369d35ecfc2b0800000000000000
+      internalID: -5562000155254465573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_49
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 960
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb459b21bc64c4c0800000000000000
+      internalID: -4268167038644171855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_50
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 960
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb4b01b720c92ec0800000000000000
+      internalID: -3591127951144694834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_51
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 960
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec7e877ccf538e60800000000000000
+      internalID: 7963313897904962796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_52
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 960
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dae668c10e6c5c30800000000000000
+      internalID: 4349472294069267156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_53
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 960
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffce2bc0828525b0800000000000000
+      internalID: -5393761489030033423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_54
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 960
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07365bd52ad9439f0800000000000000
+      internalID: -489593138794110096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04c451aa2adb4a90800000000000000
+      internalID: -7328524091985181684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_56
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 800
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98cc5779915717fd0800000000000000
+      internalID: -2345965178107605879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_57
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 800
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30ea631243160ea0800000000000000
+      internalID: -5907012686735286211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_58
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 800
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440d1e99748e6a0a0800000000000000
+      internalID: -6870548787285077948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_59
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 800
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efc4b8e4b067cb00800000000000000
+      internalID: 848753384897171424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_60
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 800
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044ac96e18b4df570800000000000000
+      internalID: 8502034692837254208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_61
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 800
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4486336242782f930800000000000000
+      internalID: 4175548393855346756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_62
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 800
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28cc7b02b02c90f00800000000000000
+      internalID: 1083610538408660098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_63
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 800
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ccde5c545a35ee0800000000000000
+      internalID: -1273492550523696008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_64
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 800
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318f3d0aef0277100800000000000000
+      internalID: 105589394258524179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_65
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 800
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224ed783c51ecbaa0800000000000000
+      internalID: -6143788005439183838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91479eba121d7afc0800000000000000
+      internalID: -3483585844199459815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_67
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 640
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7acd50e97e04d20800000000000000
+      internalID: 3260860796105435043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_68
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 640
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d34dd706eec54a0800000000000000
+      internalID: -6603140855436657325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 640
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95335a9debca141f0800000000000000
+      internalID: -1062378101387480231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_70
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 640
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138d48add5aeedb00800000000000000
+      internalID: 855378668065970225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_71
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 640
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a781fc4c6c543f0800000000000000
+      internalID: -917108400509650414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_72
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 640
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a401a85de58a8e80800000000000000
+      internalID: -8175574919097023326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_73
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 640
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63edb8ce1a5d1c5c0800000000000000
+      internalID: -4196838486297551306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_74
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 640
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98993eb776c9f5650800000000000000
+      internalID: 6223865178323392905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_75
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 640
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed79c4658f5007780800000000000000
+      internalID: -8687437117039798306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_76
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 640
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdf16160c0fbea80800000000000000
+      internalID: -8436384767890293253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6851d8fd1226b59d0800000000000000
+      internalID: -2784524046974511738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_78
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347a6b6a17b6d43c0800000000000000
+      internalID: -4373721527234418877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_79
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7104199dd6e47f30800000000000000
+      internalID: 4572533361118282108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_80
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 480
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ef11d01e74adb80800000000000000
+      internalID: -8369297925602148759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_81
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 480
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e24266c329cf1320800000000000000
+      internalID: 2530962671094874856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_82
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 480
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fedb4fc1a0f8cc890800000000000000
+      internalID: -7436411611097285137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_83
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 480
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242258df373f5ff90800000000000000
+      internalID: -6920357572884749758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_84
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 480
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf362c46204f34550800000000000000
+      internalID: 6144022607781061628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_85
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 480
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095cfea527dde8d20800000000000000
+      internalID: 3282804661621343632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_86
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 480
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59e7be11611c83f0800000000000000
+      internalID: -897323116928702118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_87
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 480
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995d64eb451ccaa80800000000000000
+      internalID: -8454169830767536743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926ac651c7c881a40800000000000000
+      internalID: 5339171822810998313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_89
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6b83c9a6c1e0020800000000000000
+      internalID: 2309814903100716748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_90
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8b3d9da591a69f0800000000000000
+      internalID: -474538932741883726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_91
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 320
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0369279127916a0800000000000000
+      internalID: -6478021135373553490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_92
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 320
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf9197a61573b6e0800000000000000
+      internalID: -1822984683993849908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_93
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 320
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5bdc80061b08770800000000000000
+      internalID: 8611077513555064240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_94
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 320
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8aba10c5c912cc0800000000000000
+      internalID: -3737534296761849608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_95
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 320
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aba583d8b20094b0800000000000000
+      internalID: -5435841757390197849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_96
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 320
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68a0a84d5bfc3160800000000000000
+      internalID: 7006751498350667886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_97
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 320
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232a8c03f11ac24e0800000000000000
+      internalID: -2005050578752200142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_98
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 320
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6fd05fe5eb9b5230800000000000000
+      internalID: 3628665336641937263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a48fbd16e13b8aa0800000000000000
+      internalID: -6157773201087691613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_100
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8937a47cdf514640800000000000000
+      internalID: 5062432856595708300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_101
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee0fe81df0580360800000000000000
+      internalID: 7136042657543818980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_102
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 160
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec493c4a317160c90800000000000000
+      internalID: -7204045180796431154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_103
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 160
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9887ce5ed7b88a20800000000000000
+      internalID: 3064901712126380190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_104
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 160
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24f47b58bc673600800000000000000
+      internalID: 447946227010827310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_105
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 160
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f193824728e1fc640800000000000000
+      internalID: 5102330448477436191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_106
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 160
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc4dfade8afed2c0800000000000000
+      internalID: -4404807894055433030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_107
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 160
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580980eeb8f8c4ed0800000000000000
+      internalID: -2428408267902775163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_108
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 160
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3569b3716028f1d0800000000000000
+      internalID: -3316865522632923841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_109
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 160
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a39a07250706a40800000000000000
+      internalID: 5359407055950658147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4d4f75a5db67850800000000000000
+      internalID: 6374490518309885126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_111
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceed847e9634dbac0800000000000000
+      internalID: -3837837185318854932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_112
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15762468af2c8f6f0800000000000000
+      internalID: -650555764904925359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_113
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf9b437e48075670800000000000000
+      internalID: 8527293552484130737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_114
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b00cabbda58a4800800000000000000
+      internalID: 597436881804460216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_115
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b0961994da11c20800000000000000
+      internalID: 3175509743756708710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_116
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2dab3d19f76fc90800000000000000
+      internalID: -7136376295222750484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_117
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 0
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421c245575ac1b74f958cfafdd41058b
+      internalID: -1157134971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_118
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbc82e634934144cbe6b672f89418db
+      internalID: 1150852002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoStart_119
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318c70e278cce2a48b6ffc19795b37c1
+      internalID: -1321709441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4833ba68066d4be4398102f71a991dcb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sprite_LogoStart_0: -7710246337334909350
+      sprite_LogoStart_1: 6558629623124729657
+      sprite_LogoStart_10: -2893438842026752955
+      sprite_LogoStart_100: 5062432856595708300
+      sprite_LogoStart_101: 7136042657543818980
+      sprite_LogoStart_102: -7204045180796431154
+      sprite_LogoStart_103: 3064901712126380190
+      sprite_LogoStart_104: 447946227010827310
+      sprite_LogoStart_105: 5102330448477436191
+      sprite_LogoStart_106: -4404807894055433030
+      sprite_LogoStart_107: -2428408267902775163
+      sprite_LogoStart_108: -3316865522632923841
+      sprite_LogoStart_109: 5359407055950658147
+      sprite_LogoStart_11: -5881137586783099170
+      sprite_LogoStart_110: 6374490518309885126
+      sprite_LogoStart_111: -3837837185318854932
+      sprite_LogoStart_112: -650555764904925359
+      sprite_LogoStart_113: 8527293552484130737
+      sprite_LogoStart_114: 597436881804460216
+      sprite_LogoStart_115: 3175509743756708710
+      sprite_LogoStart_116: -7136376295222750484
+      sprite_LogoStart_117: -1157134971
+      sprite_LogoStart_118: 1150852002
+      sprite_LogoStart_119: -1321709441
+      sprite_LogoStart_12: 8859663427770786365
+      sprite_LogoStart_13: 8242194032982508225
+      sprite_LogoStart_14: 1992372115483849018
+      sprite_LogoStart_15: 2064503973108914254
+      sprite_LogoStart_16: 2040743355295014012
+      sprite_LogoStart_17: -6529134069056939749
+      sprite_LogoStart_18: 1307309213185109685
+      sprite_LogoStart_19: 6296607660291887494
+      sprite_LogoStart_2: -2671649135367290073
+      sprite_LogoStart_20: 4618430532625423697
+      sprite_LogoStart_21: 7875237653120877578
+      sprite_LogoStart_22: -5654065145682908547
+      sprite_LogoStart_23: 6481844738183996714
+      sprite_LogoStart_24: 3853513136627288863
+      sprite_LogoStart_25: 1886823692480394128
+      sprite_LogoStart_26: 5941827328492208494
+      sprite_LogoStart_27: -1601301566836846487
+      sprite_LogoStart_28: -4520568651159425742
+      sprite_LogoStart_29: -7522438380423994474
+      sprite_LogoStart_3: 7136390301616074145
+      sprite_LogoStart_30: -6940866823962760985
+      sprite_LogoStart_31: 8126778674613518140
+      sprite_LogoStart_32: 7489946479204727559
+      sprite_LogoStart_33: -546085395125631605
+      sprite_LogoStart_34: 4528579193804742440
+      sprite_LogoStart_35: -3017838796430815472
+      sprite_LogoStart_36: 8861148432831178283
+      sprite_LogoStart_37: -6578595037619028736
+      sprite_LogoStart_38: 6593983340338166631
+      sprite_LogoStart_39: 2935793524226966582
+      sprite_LogoStart_4: 2364340251377368796
+      sprite_LogoStart_40: 1143517651286639529
+      sprite_LogoStart_41: -4098492426765851178
+      sprite_LogoStart_42: -1410449210195310642
+      sprite_LogoStart_43: -1045806104452823181
+      sprite_LogoStart_44: 5091441032276024719
+      sprite_LogoStart_45: 7474713524389617947
+      sprite_LogoStart_46: 9039225461668754047
+      sprite_LogoStart_47: 1961363197947585267
+      sprite_LogoStart_48: -5562000155254465573
+      sprite_LogoStart_49: -4268167038644171855
+      sprite_LogoStart_5: 1921949767086277170
+      sprite_LogoStart_50: -3591127951144694834
+      sprite_LogoStart_51: 7963313897904962796
+      sprite_LogoStart_52: 4349472294069267156
+      sprite_LogoStart_53: -5393761489030033423
+      sprite_LogoStart_54: -489593138794110096
+      sprite_LogoStart_55: -7328524091985181684
+      sprite_LogoStart_56: -2345965178107605879
+      sprite_LogoStart_57: -5907012686735286211
+      sprite_LogoStart_58: -6870548787285077948
+      sprite_LogoStart_59: 848753384897171424
+      sprite_LogoStart_6: -8410203404026313579
+      sprite_LogoStart_60: 8502034692837254208
+      sprite_LogoStart_61: 4175548393855346756
+      sprite_LogoStart_62: 1083610538408660098
+      sprite_LogoStart_63: -1273492550523696008
+      sprite_LogoStart_64: 105589394258524179
+      sprite_LogoStart_65: -6143788005439183838
+      sprite_LogoStart_66: -3483585844199459815
+      sprite_LogoStart_67: 3260860796105435043
+      sprite_LogoStart_68: -6603140855436657325
+      sprite_LogoStart_69: -1062378101387480231
+      sprite_LogoStart_7: -5364739942688912245
+      sprite_LogoStart_70: 855378668065970225
+      sprite_LogoStart_71: -917108400509650414
+      sprite_LogoStart_72: -8175574919097023326
+      sprite_LogoStart_73: -4196838486297551306
+      sprite_LogoStart_74: 6223865178323392905
+      sprite_LogoStart_75: -8687437117039798306
+      sprite_LogoStart_76: -8436384767890293253
+      sprite_LogoStart_77: -2784524046974511738
+      sprite_LogoStart_78: -4373721527234418877
+      sprite_LogoStart_79: 4572533361118282108
+      sprite_LogoStart_8: -999594088064246476
+      sprite_LogoStart_80: -8369297925602148759
+      sprite_LogoStart_81: 2530962671094874856
+      sprite_LogoStart_82: -7436411611097285137
+      sprite_LogoStart_83: -6920357572884749758
+      sprite_LogoStart_84: 6144022607781061628
+      sprite_LogoStart_85: 3282804661621343632
+      sprite_LogoStart_86: -897323116928702118
+      sprite_LogoStart_87: -8454169830767536743
+      sprite_LogoStart_88: 5339171822810998313
+      sprite_LogoStart_89: 2309814903100716748
+      sprite_LogoStart_9: 6239148221709593054
+      sprite_LogoStart_90: -474538932741883726
+      sprite_LogoStart_91: -6478021135373553490
+      sprite_LogoStart_92: -1822984683993849908
+      sprite_LogoStart_93: 8611077513555064240
+      sprite_LogoStart_94: -3737534296761849608
+      sprite_LogoStart_95: -5435841757390197849
+      sprite_LogoStart_96: 7006751498350667886
+      sprite_LogoStart_97: -2005050578752200142
+      sprite_LogoStart_98: 3628665336641937263
+      sprite_LogoStart_99: -6157773201087691613
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

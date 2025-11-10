@@ -1,0 +1,3276 @@
+fileFormatVersion: 2
+guid: bb73c162e168b934db0277854a0ffeda
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4821815341052222639
+    second: sprite_LogoLoop_0
+  - first:
+      213: 6240709413539440092
+    second: sprite_LogoLoop_1
+  - first:
+      213: -819927387705967796
+    second: sprite_LogoLoop_2
+  - first:
+      213: -1148266603799150196
+    second: sprite_LogoLoop_3
+  - first:
+      213: 2943185043162744095
+    second: sprite_LogoLoop_4
+  - first:
+      213: 1724056666963660470
+    second: sprite_LogoLoop_5
+  - first:
+      213: 4280351741165434893
+    second: sprite_LogoLoop_6
+  - first:
+      213: 5856208624340647140
+    second: sprite_LogoLoop_7
+  - first:
+      213: 5539627085619172270
+    second: sprite_LogoLoop_8
+  - first:
+      213: -5414243516710827234
+    second: sprite_LogoLoop_9
+  - first:
+      213: 429460265573251177
+    second: sprite_LogoLoop_10
+  - first:
+      213: 6104609303109299313
+    second: sprite_LogoLoop_11
+  - first:
+      213: 6564097091280737597
+    second: sprite_LogoLoop_12
+  - first:
+      213: 4156503538787421979
+    second: sprite_LogoLoop_13
+  - first:
+      213: 1713353480648136520
+    second: sprite_LogoLoop_14
+  - first:
+      213: 4159460335569292226
+    second: sprite_LogoLoop_15
+  - first:
+      213: -2180237077108712307
+    second: sprite_LogoLoop_16
+  - first:
+      213: 7216847435077948447
+    second: sprite_LogoLoop_17
+  - first:
+      213: -1511169552297371311
+    second: sprite_LogoLoop_18
+  - first:
+      213: -4978968019718277456
+    second: sprite_LogoLoop_19
+  - first:
+      213: 4012764675637233060
+    second: sprite_LogoLoop_20
+  - first:
+      213: 5072955015124094397
+    second: sprite_LogoLoop_21
+  - first:
+      213: 6157063035780810596
+    second: sprite_LogoLoop_22
+  - first:
+      213: -1617900957873873506
+    second: sprite_LogoLoop_23
+  - first:
+      213: -6456235389484815799
+    second: sprite_LogoLoop_24
+  - first:
+      213: 934653712405177271
+    second: sprite_LogoLoop_25
+  - first:
+      213: 1318597748991157890
+    second: sprite_LogoLoop_26
+  - first:
+      213: 5629206653607053493
+    second: sprite_LogoLoop_27
+  - first:
+      213: 1466025404569360217
+    second: sprite_LogoLoop_28
+  - first:
+      213: 4576020881222393829
+    second: sprite_LogoLoop_29
+  - first:
+      213: -2324256220261677034
+    second: sprite_LogoLoop_30
+  - first:
+      213: 8241099186180667866
+    second: sprite_LogoLoop_31
+  - first:
+      213: 8957889070102002319
+    second: sprite_LogoLoop_32
+  - first:
+      213: -60387078300683526
+    second: sprite_LogoLoop_33
+  - first:
+      213: 6298809606176021014
+    second: sprite_LogoLoop_34
+  - first:
+      213: -99757339864030083
+    second: sprite_LogoLoop_35
+  - first:
+      213: -8304751605930384484
+    second: sprite_LogoLoop_36
+  - first:
+      213: 422294714165597243
+    second: sprite_LogoLoop_37
+  - first:
+      213: -8434682299745200579
+    second: sprite_LogoLoop_38
+  - first:
+      213: 7749228099101360799
+    second: sprite_LogoLoop_39
+  - first:
+      213: 3195111616517751473
+    second: sprite_LogoLoop_40
+  - first:
+      213: -4391677930850213322
+    second: sprite_LogoLoop_41
+  - first:
+      213: -6813526734788419732
+    second: sprite_LogoLoop_42
+  - first:
+      213: 6781959004233957526
+    second: sprite_LogoLoop_43
+  - first:
+      213: -629675695956138259
+    second: sprite_LogoLoop_44
+  - first:
+      213: 6584591527367229450
+    second: sprite_LogoLoop_45
+  - first:
+      213: 450824422694305426
+    second: sprite_LogoLoop_46
+  - first:
+      213: -879269126751032848
+    second: sprite_LogoLoop_47
+  - first:
+      213: 7279130299130306163
+    second: sprite_LogoLoop_48
+  - first:
+      213: 2708414414978076708
+    second: sprite_LogoLoop_49
+  - first:
+      213: -4719854772569206911
+    second: sprite_LogoLoop_50
+  - first:
+      213: -2372512362632077138
+    second: sprite_LogoLoop_51
+  - first:
+      213: -3023495402209710334
+    second: sprite_LogoLoop_52
+  - first:
+      213: 2985596453269231416
+    second: sprite_LogoLoop_53
+  - first:
+      213: -2200613013100779351
+    second: sprite_LogoLoop_54
+  - first:
+      213: -1639024567110137022
+    second: sprite_LogoLoop_55
+  - first:
+      213: 3892431906522055758
+    second: sprite_LogoLoop_56
+  - first:
+      213: 6722867300363216423
+    second: sprite_LogoLoop_57
+  - first:
+      213: -7798981490746995995
+    second: sprite_LogoLoop_58
+  - first:
+      213: -247584349767368542
+    second: sprite_LogoLoop_59
+  - first:
+      213: -5602687874302112315
+    second: sprite_LogoLoop_60
+  - first:
+      213: 6161406587384997136
+    second: sprite_LogoLoop_61
+  - first:
+      213: -8444625598513430976
+    second: sprite_LogoLoop_62
+  - first:
+      213: -1760482534974045291
+    second: sprite_LogoLoop_63
+  - first:
+      213: 5141916570929706418
+    second: sprite_LogoLoop_64
+  - first:
+      213: 1954433492243790957
+    second: sprite_LogoLoop_65
+  - first:
+      213: -1228959587657137094
+    second: sprite_LogoLoop_66
+  - first:
+      213: -6462940729377417593
+    second: sprite_LogoLoop_67
+  - first:
+      213: 8897986944796006500
+    second: sprite_LogoLoop_68
+  - first:
+      213: -2397105566597603643
+    second: sprite_LogoLoop_69
+  - first:
+      213: 6385003542306355457
+    second: sprite_LogoLoop_70
+  - first:
+      213: -56092095560199208
+    second: sprite_LogoLoop_71
+  - first:
+      213: -3877944151175711101
+    second: sprite_LogoLoop_72
+  - first:
+      213: 1800003427568823595
+    second: sprite_LogoLoop_73
+  - first:
+      213: 5969820907897568581
+    second: sprite_LogoLoop_74
+  - first:
+      213: -4664130515080249074
+    second: sprite_LogoLoop_75
+  - first:
+      213: 3755619524063377833
+    second: sprite_LogoLoop_76
+  - first:
+      213: -4651254220809403958
+    second: sprite_LogoLoop_77
+  - first:
+      213: -6448004485336301312
+    second: sprite_LogoLoop_78
+  - first:
+      213: 3393035724088671774
+    second: sprite_LogoLoop_79
+  - first:
+      213: -4061413818226781739
+    second: sprite_LogoLoop_80
+  - first:
+      213: -6315059509683203393
+    second: sprite_LogoLoop_81
+  - first:
+      213: 3878782627135340472
+    second: sprite_LogoLoop_82
+  - first:
+      213: -405999155878827124
+    second: sprite_LogoLoop_83
+  - first:
+      213: -6984918167910273147
+    second: sprite_LogoLoop_84
+  - first:
+      213: -693134802119003036
+    second: sprite_LogoLoop_85
+  - first:
+      213: -6957444638584445785
+    second: sprite_LogoLoop_86
+  - first:
+      213: -8547333124963256588
+    second: sprite_LogoLoop_87
+  - first:
+      213: 3109778353160789099
+    second: sprite_LogoLoop_88
+  - first:
+      213: -2720245482407591712
+    second: sprite_LogoLoop_89
+  - first:
+      213: 9064643577172093095
+    second: sprite_LogoLoop_90
+  - first:
+      213: -2389687909548516574
+    second: sprite_LogoLoop_91
+  - first:
+      213: 6658745860681496191
+    second: sprite_LogoLoop_92
+  - first:
+      213: -5105964327877746631
+    second: sprite_LogoLoop_93
+  - first:
+      213: -5549082509694863474
+    second: sprite_LogoLoop_94
+  - first:
+      213: -9048259573478621013
+    second: sprite_LogoLoop_95
+  - first:
+      213: -3803242576211573799
+    second: sprite_LogoLoop_96
+  - first:
+      213: -3369167034234313032
+    second: sprite_LogoLoop_97
+  - first:
+      213: 9208056423837862486
+    second: sprite_LogoLoop_98
+  - first:
+      213: -1427278585714610365
+    second: sprite_LogoLoop_99
+  - first:
+      213: -6153739391915897254
+    second: sprite_LogoLoop_100
+  - first:
+      213: 8879163531767777881
+    second: sprite_LogoLoop_101
+  - first:
+      213: -8856387951437830535
+    second: sprite_LogoLoop_102
+  - first:
+      213: 5581970672792551166
+    second: sprite_LogoLoop_103
+  - first:
+      213: -5385583967827657969
+    second: sprite_LogoLoop_104
+  - first:
+      213: -6449473202277226662
+    second: sprite_LogoLoop_105
+  - first:
+      213: -853104125411463895
+    second: sprite_LogoLoop_106
+  - first:
+      213: 4719837625504515706
+    second: sprite_LogoLoop_107
+  - first:
+      213: -2965605143271473507
+    second: sprite_LogoLoop_108
+  - first:
+      213: -624416790511142074
+    second: sprite_LogoLoop_109
+  - first:
+      213: -5806905633960307554
+    second: sprite_LogoLoop_110
+  - first:
+      213: -8233411738636345710
+    second: sprite_LogoLoop_111
+  - first:
+      213: -2369574534503327328
+    second: sprite_LogoLoop_112
+  - first:
+      213: 3721670315422238909
+    second: sprite_LogoLoop_113
+  - first:
+      213: -3315437263669358754
+    second: sprite_LogoLoop_114
+  - first:
+      213: 9130997029609631353
+    second: sprite_LogoLoop_115
+  - first:
+      213: 663445155719673236
+    second: sprite_LogoLoop_116
+  - first:
+      213: -1189605579020052882
+    second: sprite_LogoLoop_117
+  - first:
+      213: -8153908312189697425
+    second: sprite_LogoLoop_118
+  - first:
+      213: -9158601751356893789
+    second: sprite_LogoLoop_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite_LogoLoop_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153ad009e78751db0800000000000000
+      internalID: -4821815341052222639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1600
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5647c95247b9650800000000000000
+      internalID: 6240709413539440092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1600
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4bfb2292680f94f0800000000000000
+      internalID: -819927387705967796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_3
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1600
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c818b1d8b998010f0800000000000000
+      internalID: -1148266603799150196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_4
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1600
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1545fdf33b48d820800000000000000
+      internalID: 2943185043162744095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_5
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1600
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be430777641de710800000000000000
+      internalID: 1724056666963660470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_6
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1600
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08f3e5fa3dd66b30800000000000000
+      internalID: 4280351741165434893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_7
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1600
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec376067be654150800000000000000
+      internalID: 5856208624340647140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_8
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1600
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea39672fb75b0ec40800000000000000
+      internalID: 5539627085619172270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_9
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1600
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b4dfa153ebcd4b0800000000000000
+      internalID: -5414243516710827234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_10
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1600
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96873ae06dfb5f500800000000000000
+      internalID: 429460265573251177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cef5c41dde7b450800000000000000
+      internalID: 6104609303109299313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1440
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3596f4c68b581b50800000000000000
+      internalID: 6564097091280737597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1440
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f041942fddea930800000000000000
+      internalID: 4156503538787421979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_14
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1440
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84716b4b9ed07c710800000000000000
+      internalID: 1713353480648136520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1440
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb4fee232f59b930800000000000000
+      internalID: 4159460335569292226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_16
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1440
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c9cc40eed3eb1e0800000000000000
+      internalID: -2180237077108712307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_17
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1440
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1492067184672460800000000000000
+      internalID: 7216847435077948447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_18
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1440
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159dde77c4f370be0800000000000000
+      internalID: -1511169552297371311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_19
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1440
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b679ac37f627eab0800000000000000
+      internalID: -4978968019718277456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_20
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1440
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5c792463430b730800000000000000
+      internalID: 4012764675637233060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_21
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1440
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd020665b1c66640800000000000000
+      internalID: 5072955015124094397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4674763a538427550800000000000000
+      internalID: 6157063035780810596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1280
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9dd92c96af0c89e0800000000000000
+      internalID: -1617900957873873506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_24
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1280
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94aa37fae18d666a0800000000000000
+      internalID: -6456235389484815799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_25
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1280
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b329e3799e88fc00800000000000000
+      internalID: 934653712405177271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_26
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1280
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2866f3e9aa99c4210800000000000000
+      internalID: 1318597748991157890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_27
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1280
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8838b60a5fe1e40800000000000000
+      internalID: 5629206653607053493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_28
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1280
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9571e0f865e585410800000000000000
+      internalID: 1466025404569360217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_29
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1280
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5efd7062fba418f30800000000000000
+      internalID: 4576020881222393829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_30
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1280
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6188f4838459ebfd0800000000000000
+      internalID: -2324256220261677034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_31
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1280
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad93f0feb044e5270800000000000000
+      internalID: 8241099186180667866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_32
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1280
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ab8c8f5a0d05c70800000000000000
+      internalID: 8957889070102002319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1120
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af23dd0b546792ff0800000000000000
+      internalID: -60387078300683526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_34
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1120
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a90fbd6fdd96750800000000000000
+      internalID: 6298809606176021014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_35
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1120
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74aaa95a379d9ef0800000000000000
+      internalID: -99757339864030083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_36
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1120
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c932aa43a689fbc80800000000000000
+      internalID: -8304751605930384484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_37
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1120
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b349d5c1eca4cd500800000000000000
+      internalID: 422294714165597243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_38
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1120
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d369962232df1fa80800000000000000
+      internalID: -8434682299745200579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_39
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1120
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92896226e9ca8b60800000000000000
+      internalID: 7749228099101360799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_40
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1120
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2c3483611575c20800000000000000
+      internalID: 3195111616517751473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_41
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1120
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63220c3a030ad03c0800000000000000
+      internalID: -4391677930850213322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_42
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1120
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f1f49c88d7171a0800000000000000
+      internalID: -6813526734788419732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_43
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1120
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69080a038cb5e1e50800000000000000
+      internalID: 6781959004233957526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de666da6a41f247f0800000000000000
+      internalID: -629675695956138259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_45
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 960
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0045c38b1b216b50800000000000000
+      internalID: 6584591527367229450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 960
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29eb3c28c66a14600800000000000000
+      internalID: 450824422694305426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_47
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 960
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9690643653cc3f0800000000000000
+      internalID: -879269126751032848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_48
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 960
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ed179c07aa40560800000000000000
+      internalID: 7279130299130306163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_49
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 960
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420d0558f88369520800000000000000
+      internalID: 2708414414978076708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_50
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 960
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f84995715bf7eb0800000000000000
+      internalID: -4719854772569206911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_51
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 960
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0a7188394231fd0800000000000000
+      internalID: -2372512362632077138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_52
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 960
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f634b63f26a06d0800000000000000
+      internalID: -3023495402209710334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_53
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 960
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83757c7e728fe6920800000000000000
+      internalID: 2985596453269231416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_54
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 960
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8a60abf1ad571e0800000000000000
+      internalID: -2200613013100779351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b034317d30149e0800000000000000
+      internalID: -1639024567110137022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_56
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 800
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44c4ac2232b40630800000000000000
+      internalID: 3892431906522055758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_57
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 800
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7262d3eb03c6c4d50800000000000000
+      internalID: 6722867300363216423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_58
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 800
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eacd2aa7a374c390800000000000000
+      internalID: -7798981490746995995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_59
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 800
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a08b2c7857609cf0800000000000000
+      internalID: -247584349767368542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_60
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 800
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd85d800114f32b0800000000000000
+      internalID: -5602687874302112315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_61
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 800
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015a5dd85a6b18550800000000000000
+      internalID: 6161406587384997136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_62
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 800
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ebf6b72c9aeca80800000000000000
+      internalID: -8444625598513430976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_63
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 800
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593c79d36728197e0800000000000000
+      internalID: -1760482534974045291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_64
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 800
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5b5f2d0e1cb5740800000000000000
+      internalID: 5141916570929706418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_65
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 800
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c315af7ea8f1b10800000000000000
+      internalID: 1954433492243790957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34c26e24cbd1fee0800000000000000
+      internalID: -1228959587657137094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_67
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 640
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7861e0516a50f46a0800000000000000
+      internalID: -6462940729377417593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_68
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 640
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46811a49bfffb7b70800000000000000
+      internalID: 8897986944796006500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 640
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce96d50035cbbed0800000000000000
+      internalID: -2397105566597603643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_70
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 640
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109f7cc74e61c9850800000000000000
+      internalID: 6385003542306355457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_71
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 640
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d35d694988b83ff0800000000000000
+      internalID: -56092095560199208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_72
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 640
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3863e5a3756ce2ac0800000000000000
+      internalID: -3877944151175711101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_73
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 640
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2da9be9495eaf810800000000000000
+      internalID: 1800003427568823595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_74
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 640
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d3feb7c7019d250800000000000000
+      internalID: 5969820907897568581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_75
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 640
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e010596120ea54fb0800000000000000
+      internalID: -4664130515080249074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_76
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 640
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9b15b1f04ae1430800000000000000
+      internalID: 3755619524063377833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac18e98fdec637fb0800000000000000
+      internalID: -4651254220809403958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_78
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001876565161486a0800000000000000
+      internalID: -6448004485336301312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_79
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ef384930c761f20800000000000000
+      internalID: 3393035724088671774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_80
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 480
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1dabe86a5f2a7c0800000000000000
+      internalID: -4061413818226781739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_81
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 480
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb251e5a5d66c58a0800000000000000
+      internalID: -6315059509683203393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_82
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 480
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfbb5baf3434d530800000000000000
+      internalID: 3878782627135340472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_83
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 480
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8bebb63be99d5af0800000000000000
+      internalID: -405999155878827124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_84
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 480
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f29881fe5901f90800000000000000
+      internalID: -6984918167910273147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_85
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 480
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4647c32e19d7166f0800000000000000
+      internalID: -693134802119003036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_86
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 480
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a46abc96f0327f90800000000000000
+      internalID: -6957444638584445785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_87
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 480
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6b2adfec5c16980800000000000000
+      internalID: -8547333124963256588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c19569fe6282b20800000000000000
+      internalID: 3109778353160789099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_89
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e00c3f652fbf3ad0800000000000000
+      internalID: -2720245482407591712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_90
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a86ed09e451ccd70800000000000000
+      internalID: 9064643577172093095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_91
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 320
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b9053e18f16ded0800000000000000
+      internalID: -2389687909548516574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_92
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 320
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76f58ba41e986c50800000000000000
+      internalID: 6658745860681496191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_93
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 320
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930e7011f78f329b0800000000000000
+      internalID: -5105964327877746631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_94
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 320
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87fd449bd2bdf2b0800000000000000
+      internalID: -5549082509694863474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_95
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 320
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0874f8bdf1e6280800000000000000
+      internalID: -9048259573478621013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_96
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 320
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d38442070b283bc0800000000000000
+      internalID: -3803242576211573799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_97
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 320
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6e187de605e31d0800000000000000
+      internalID: -3369167034234313032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_98
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 320
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a0c96f78699cf70800000000000000
+      internalID: 9208056423837862486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f65f630b9413ce0800000000000000
+      internalID: -1427278585714610365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_100
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e468080a6899aa0800000000000000
+      internalID: -6153739391915897254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_101
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a0f953030293b70800000000000000
+      internalID: 8879163531767777881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_102
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 160
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976af71d41ac71580800000000000000
+      internalID: -8856387951437830535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_103
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 160
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efeb27a90c4277d40800000000000000
+      internalID: 5581970672792551166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_104
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 160
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bf7915aef8245b0800000000000000
+      internalID: -5385583967827657969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_105
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 160
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a576dd51b4ede76a0800000000000000
+      internalID: -6449473202277226662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_106
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 160
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ded60615a2924f0800000000000000
+      internalID: -853104125411463895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_107
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 160
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7648b9405b308140800000000000000
+      internalID: 4719837625504515706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_108
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 160
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e7b3ba5dd08d6d0800000000000000
+      internalID: -2965605143271473507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_109
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 160
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b3bc1cc30a557f0800000000000000
+      internalID: -624416790511142074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94d49b971ab96fa0800000000000000
+      internalID: -5806905633960307554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_111
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e9c0d65ab0dbd80800000000000000
+      internalID: -8233411738636345710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_112
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a91e12f3849d1fd0800000000000000
+      internalID: -2369574534503327328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_113
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8cbd10f6706a330800000000000000
+      internalID: 3721670315422238909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_114
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f05e7ef533df1d0800000000000000
+      internalID: -3315437263669358754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_115
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e670b9b61d7be70800000000000000
+      internalID: 9130997029609631353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_116
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495ff92aad7053900800000000000000
+      internalID: 663445155719673236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_117
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 0
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66dfa7570cad7fe0800000000000000
+      internalID: -1189605579020052882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_118
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6204d0679f77de80800000000000000
+      internalID: -8153908312189697425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_LogoLoop_119
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a51a134b3c16e080800000000000000
+      internalID: -9158601751356893789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8b8f273fc66f1534da31298d6da5a055
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sprite_LogoLoop_0: -4821815341052222639
+      sprite_LogoLoop_1: 6240709413539440092
+      sprite_LogoLoop_10: 429460265573251177
+      sprite_LogoLoop_100: -6153739391915897254
+      sprite_LogoLoop_101: 8879163531767777881
+      sprite_LogoLoop_102: -8856387951437830535
+      sprite_LogoLoop_103: 5581970672792551166
+      sprite_LogoLoop_104: -5385583967827657969
+      sprite_LogoLoop_105: -6449473202277226662
+      sprite_LogoLoop_106: -853104125411463895
+      sprite_LogoLoop_107: 4719837625504515706
+      sprite_LogoLoop_108: -2965605143271473507
+      sprite_LogoLoop_109: -624416790511142074
+      sprite_LogoLoop_11: 6104609303109299313
+      sprite_LogoLoop_110: -5806905633960307554
+      sprite_LogoLoop_111: -8233411738636345710
+      sprite_LogoLoop_112: -2369574534503327328
+      sprite_LogoLoop_113: 3721670315422238909
+      sprite_LogoLoop_114: -3315437263669358754
+      sprite_LogoLoop_115: 9130997029609631353
+      sprite_LogoLoop_116: 663445155719673236
+      sprite_LogoLoop_117: -1189605579020052882
+      sprite_LogoLoop_118: -8153908312189697425
+      sprite_LogoLoop_119: -9158601751356893789
+      sprite_LogoLoop_12: 6564097091280737597
+      sprite_LogoLoop_13: 4156503538787421979
+      sprite_LogoLoop_14: 1713353480648136520
+      sprite_LogoLoop_15: 4159460335569292226
+      sprite_LogoLoop_16: -2180237077108712307
+      sprite_LogoLoop_17: 7216847435077948447
+      sprite_LogoLoop_18: -1511169552297371311
+      sprite_LogoLoop_19: -4978968019718277456
+      sprite_LogoLoop_2: -819927387705967796
+      sprite_LogoLoop_20: 4012764675637233060
+      sprite_LogoLoop_21: 5072955015124094397
+      sprite_LogoLoop_22: 6157063035780810596
+      sprite_LogoLoop_23: -1617900957873873506
+      sprite_LogoLoop_24: -6456235389484815799
+      sprite_LogoLoop_25: 934653712405177271
+      sprite_LogoLoop_26: 1318597748991157890
+      sprite_LogoLoop_27: 5629206653607053493
+      sprite_LogoLoop_28: 1466025404569360217
+      sprite_LogoLoop_29: 4576020881222393829
+      sprite_LogoLoop_3: -1148266603799150196
+      sprite_LogoLoop_30: -2324256220261677034
+      sprite_LogoLoop_31: 8241099186180667866
+      sprite_LogoLoop_32: 8957889070102002319
+      sprite_LogoLoop_33: -60387078300683526
+      sprite_LogoLoop_34: 6298809606176021014
+      sprite_LogoLoop_35: -99757339864030083
+      sprite_LogoLoop_36: -8304751605930384484
+      sprite_LogoLoop_37: 422294714165597243
+      sprite_LogoLoop_38: -8434682299745200579
+      sprite_LogoLoop_39: 7749228099101360799
+      sprite_LogoLoop_4: 2943185043162744095
+      sprite_LogoLoop_40: 3195111616517751473
+      sprite_LogoLoop_41: -4391677930850213322
+      sprite_LogoLoop_42: -6813526734788419732
+      sprite_LogoLoop_43: 6781959004233957526
+      sprite_LogoLoop_44: -629675695956138259
+      sprite_LogoLoop_45: 6584591527367229450
+      sprite_LogoLoop_46: 450824422694305426
+      sprite_LogoLoop_47: -879269126751032848
+      sprite_LogoLoop_48: 7279130299130306163
+      sprite_LogoLoop_49: 2708414414978076708
+      sprite_LogoLoop_5: 1724056666963660470
+      sprite_LogoLoop_50: -4719854772569206911
+      sprite_LogoLoop_51: -2372512362632077138
+      sprite_LogoLoop_52: -3023495402209710334
+      sprite_LogoLoop_53: 2985596453269231416
+      sprite_LogoLoop_54: -2200613013100779351
+      sprite_LogoLoop_55: -1639024567110137022
+      sprite_LogoLoop_56: 3892431906522055758
+      sprite_LogoLoop_57: 6722867300363216423
+      sprite_LogoLoop_58: -7798981490746995995
+      sprite_LogoLoop_59: -247584349767368542
+      sprite_LogoLoop_6: 4280351741165434893
+      sprite_LogoLoop_60: -5602687874302112315
+      sprite_LogoLoop_61: 6161406587384997136
+      sprite_LogoLoop_62: -8444625598513430976
+      sprite_LogoLoop_63: -1760482534974045291
+      sprite_LogoLoop_64: 5141916570929706418
+      sprite_LogoLoop_65: 1954433492243790957
+      sprite_LogoLoop_66: -1228959587657137094
+      sprite_LogoLoop_67: -6462940729377417593
+      sprite_LogoLoop_68: 8897986944796006500
+      sprite_LogoLoop_69: -2397105566597603643
+      sprite_LogoLoop_7: 5856208624340647140
+      sprite_LogoLoop_70: 6385003542306355457
+      sprite_LogoLoop_71: -56092095560199208
+      sprite_LogoLoop_72: -3877944151175711101
+      sprite_LogoLoop_73: 1800003427568823595
+      sprite_LogoLoop_74: 5969820907897568581
+      sprite_LogoLoop_75: -4664130515080249074
+      sprite_LogoLoop_76: 3755619524063377833
+      sprite_LogoLoop_77: -4651254220809403958
+      sprite_LogoLoop_78: -6448004485336301312
+      sprite_LogoLoop_79: 3393035724088671774
+      sprite_LogoLoop_8: 5539627085619172270
+      sprite_LogoLoop_80: -4061413818226781739
+      sprite_LogoLoop_81: -6315059509683203393
+      sprite_LogoLoop_82: 3878782627135340472
+      sprite_LogoLoop_83: -405999155878827124
+      sprite_LogoLoop_84: -6984918167910273147
+      sprite_LogoLoop_85: -693134802119003036
+      sprite_LogoLoop_86: -6957444638584445785
+      sprite_LogoLoop_87: -8547333124963256588
+      sprite_LogoLoop_88: 3109778353160789099
+      sprite_LogoLoop_89: -2720245482407591712
+      sprite_LogoLoop_9: -5414243516710827234
+      sprite_LogoLoop_90: 9064643577172093095
+      sprite_LogoLoop_91: -2389687909548516574
+      sprite_LogoLoop_92: 6658745860681496191
+      sprite_LogoLoop_93: -5105964327877746631
+      sprite_LogoLoop_94: -5549082509694863474
+      sprite_LogoLoop_95: -9048259573478621013
+      sprite_LogoLoop_96: -3803242576211573799
+      sprite_LogoLoop_97: -3369167034234313032
+      sprite_LogoLoop_98: 9208056423837862486
+      sprite_LogoLoop_99: -1427278585714610365
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

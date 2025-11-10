@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: adf3a20f8e936814194f444c0abd3400, type: 3}
+  m_Name: waypoint_PalletTown_RedHouse_1F_Stair
+  m_EditorClassIdentifier: 
+  SceneName: scene_PalletTown_Red_House_1F
+  Destination: {fileID: 11400000, guid: 88164db4738ba994d951cf8aab902240, type: 2}
+  PosOnEnter: {x: 6.5, y: 7}
+  DirectionOnEnter: 0
+  AudioOnEnter: {fileID: 0}

@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: anim_Charmander_Controller
+  m_Controller: {fileID: 9100000, guid: 2f3c315e34908b44a9767208c211fb56, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 9d4e049682e50934788d43b976e9bfe9, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: fa916992fcec52349bd0b472e229da91, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e3dc52fb747ce3746abdde63a4a37a58, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 45cc7c23983865049bf939d2ec6e8619, type: 2}

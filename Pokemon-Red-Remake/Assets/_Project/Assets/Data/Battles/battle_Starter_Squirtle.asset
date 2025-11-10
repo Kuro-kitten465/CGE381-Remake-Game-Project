@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 354418de91bdea4438c3e5e76f1c6633, type: 3}
+  m_Name: battle_Starter_Squirtle
+  m_EditorClassIdentifier: 
+  Encounters:
+  - Base: {fileID: 11400000, guid: f817b50a737935547939950dee30d69d, type: 2}
+    Level: 5
+  IsWild: 0
+  BGM: {fileID: 8300000, guid: 768a77f905426114c8f774376b65ba30, type: 3}

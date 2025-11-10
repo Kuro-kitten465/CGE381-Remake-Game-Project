@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: adf3a20f8e936814194f444c0abd3400, type: 3}
+  m_Name: waypoint_Overworld_PalletTown_BlueHouse
+  m_EditorClassIdentifier: 
+  SceneName: scene_Overworld
+  Destination: {fileID: 11400000, guid: dc031a0fe4972844f8c5e8bf1b7d13c5, type: 2}
+  PosOnEnter: {x: 19.5, y: 19}
+  DirectionOnEnter: 0
+  AudioOnEnter: {fileID: 0}

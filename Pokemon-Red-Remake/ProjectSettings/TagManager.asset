@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Camera
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Interactable
+  - Obstruct
+  - Waypoint
+  - Grass
+  - NPC
+  - Jumpable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 870673955
+    locked: 0
+  - name: Ground
+    uniqueID: 2122197513
+    locked: 0
+  - name: Decorate_0
+    uniqueID: 2310334681
+    locked: 0
+  - name: Player
+    uniqueID: 1396056829
+    locked: 0
+  - name: Decorate_1
+    uniqueID: 3616074719
+    locked: 0
+  - name: Decorate_2
+    uniqueID: 1280805117
+    locked: 0
+  - name: Decorate_3
+    uniqueID: 3608534375
+    locked: 0
+  - name: General-UI
+    uniqueID: 713749417
+    locked: 0
+  - name: SceneLoading-UI
+    uniqueID: 165135849
+    locked: 0
+  m_RenderingLayers:
+  - Default

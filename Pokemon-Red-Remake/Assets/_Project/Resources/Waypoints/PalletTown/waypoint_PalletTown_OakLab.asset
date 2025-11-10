@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: adf3a20f8e936814194f444c0abd3400, type: 3}
+  m_Name: waypoint_PalletTown_OakLab
+  m_EditorClassIdentifier: 
+  SceneName: scene_PalletTown_OakLab
+  Destination: {fileID: 11400000, guid: 1cad0aad3f0b5b347a26108261d89802, type: 2}
+  PosOnEnter: {x: 4.5, y: 1}
+  DirectionOnEnter: 3
+  AudioOnEnter: {fileID: 8300000, guid: 783ffb1d1769c564e9852d91d5ded0a2, type: 3}
