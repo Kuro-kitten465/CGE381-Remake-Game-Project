@@ -90,6 +90,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 1024
   _mover: {fileID: 1257227710666677649}
+  _inputReader: {fileID: 11400000, guid: cbf5a4b4582620845bf487f2e788a23c, type: 2}
 --- !u!114 &4336234904876616643
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -105,6 +106,7 @@ MonoBehaviour:
   _manager: {fileID: 7517301151831043515}
   _mover: {fileID: 1257227710666677649}
   _anim: {fileID: 5719492388509724221}
+  _inputReader: {fileID: 11400000, guid: cbf5a4b4582620845bf487f2e788a23c, type: 2}
 --- !u!114 &1257227710666677649
 MonoBehaviour:
   m_ObjectHideFlags: 0

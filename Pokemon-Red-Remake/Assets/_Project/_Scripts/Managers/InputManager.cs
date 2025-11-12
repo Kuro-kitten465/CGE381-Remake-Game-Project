@@ -7,7 +7,7 @@ namespace Game.Managers
     [DefaultExecutionOrder(-20)]
     public class InputManager : MonoSingleton<InputManager>
     {
-        public GameInputActions InputActions { get; private set; }
+        /* public GameInputActions InputActions { get; private set; }
 
         public GameInputActions.PlayerActions Player { get; private set; }
         public GameInputActions.BattleActions Battle { get; private set; }
@@ -57,6 +57,6 @@ namespace Game.Managers
                     InputActions.Player.Enable();
                     break;
             }
-        }
+        } */
     }
 }

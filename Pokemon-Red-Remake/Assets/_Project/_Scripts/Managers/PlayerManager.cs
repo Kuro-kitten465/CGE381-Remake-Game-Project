@@ -1,9 +1,7 @@
 using UnityEngine;
 using Game.Input;
-using Game.Managers;
 using UnityEngine.InputSystem;
 using Game.Controllers;
-using System;
 
 namespace Game.Managers
 {
@@ -16,29 +14,25 @@ namespace Game.Managers
 
         [Header("Referenecs")]
         [SerializeField] private MovementController _mover;
+        [SerializeField] private InputReader _inputReader;
 
-        public InputManager Input { get; private set; }
         public bool IsInteract { get; set; }
         public Direction PlayerFacing => _mover.CurrentDirection;
 
-        private void Start()
+        private void OnEnable()
         {
-            Input = InputManager.Instance;
-
-            Input.Player.Interact.performed += OnInteract;
-            Input.Player.Pause.performed += OnPause;
+            _inputReader.OnInteract += OnInteract;
+            _inputReader.OnPause += OnPause;
             _mover.OnWalkFinished += OnFinishStep;
 
-            Input.UseActionMap(InputActionMapType.Player);
+            _inputReader.SetPlayerMap();
         }
 
-        private void OnDestroy()
+        private void OnDisable()
         {
-            Input.Player.Interact.performed -= OnInteract;
-            Input.Player.Pause.performed -= OnPause;
+            _inputReader.OnInteract -= OnInteract;
+            _inputReader.OnPause -= OnPause;
             _mover.OnWalkFinished -= OnFinishStep;
-
-            Input.DisableAllActionMaps();
         }
 
         private void OnFinishStep()
@@ -52,6 +46,8 @@ namespace Game.Managers
 
         public void OnInteract(InputAction.CallbackContext context)
         {
+            if (context.phase != InputActionPhase.Canceled) return;
+
             var obj = Physics2D.OverlapBox(_detectorTranform.position + _mover.DirectionToVector(_mover.CurrentDirection), transform.localScale / 2, 0f, _interactLayer);
             if (obj == null) return;
 

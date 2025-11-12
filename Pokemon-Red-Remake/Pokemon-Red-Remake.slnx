@@ -1,0 +1,5 @@
+﻿<Solution>
+  <Project Path="DOTween.Modules.csproj" />
+  <Project Path="assembly.game.csproj" />
+  <Project Path="assembly.utils.csproj" />
+</Solution>

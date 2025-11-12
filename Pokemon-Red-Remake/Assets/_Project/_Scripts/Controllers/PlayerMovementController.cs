@@ -10,11 +10,18 @@ namespace Game.Controllers
         [SerializeField] private MovementController _mover;
         [SerializeField] private CharacterAnimatorController _anim;
 
-        private InputManager _input;
+        [SerializeField] private InputReader _inputReader;
 
-        private void Start()
+        private Vector2 _direction;
+
+        private void OnEnable()
         {
-            _input = InputManager.Instance;
+            _inputReader.OnMove += OnMoveHandle;
+        }
+        
+        private void OnDisable()
+        {
+            _inputReader.OnMove -= OnMoveHandle;
         }
 
         private void FixedUpdate()
@@ -22,19 +29,21 @@ namespace Game.Controllers
             if (_mover.IsMoving) return;
             if (_manager.IsInteract) return;
 
-            var raw = _input.Player.Move.ReadValue<Vector2>();
+            var raw = _direction;
 
             if (raw.x > 0) HandleInput(Direction.Right);
             else if (raw.x < 0) HandleInput(Direction.Left);
             else if (raw.y > 0) HandleInput(Direction.Up);
             else if (raw.y < 0) HandleInput(Direction.Down);
             else _anim.PlayIdle();
-         }
+        }
 
         private void HandleInput(Direction dir)
         {
             _mover.SetDirection(dir);
             _mover.TryMoveForward();
         }
+
+        private void OnMoveHandle(Vector2 dir) => _direction = dir;
     }
 }

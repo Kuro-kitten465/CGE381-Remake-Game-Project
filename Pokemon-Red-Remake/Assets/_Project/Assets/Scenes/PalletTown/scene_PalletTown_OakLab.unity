@@ -2852,7 +2852,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 395358300}
-  - component: {fileID: 395358302}
   - component: {fileID: 395358301}
   m_Layer: 7
   m_Name: interact_Pokeball_3
@@ -2923,22 +2922,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.9, y: 0.9}
   m_EdgeRadius: 0
---- !u!114 &395358302
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 395358299}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7b4a8014dd7c9ea4bba63c697ab2a14f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _starterInfo: {fileID: 1490377595}
-  _pokeballImage: {fileID: 1135463388}
-  _pokemonBase: {fileID: 11400000, guid: 3f6f7b80596714146be397428e928174, type: 2}
-  _battleScene: {fileID: 11400000, guid: 9afae246286f2a74eb476ba1991d3645, type: 2}
 --- !u!1 &454560586
 GameObject:
   m_ObjectHideFlags: 0
@@ -5200,7 +5183,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1146621696}
-  - component: {fileID: 1146621698}
   - component: {fileID: 1146621697}
   m_Layer: 7
   m_Name: interact_Pokeball_2
@@ -5271,22 +5253,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.9, y: 0.9}
   m_EdgeRadius: 0
---- !u!114 &1146621698
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1146621695}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7b4a8014dd7c9ea4bba63c697ab2a14f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _starterInfo: {fileID: 1795143106}
-  _pokeballImage: {fileID: 1398852461}
-  _pokemonBase: {fileID: 11400000, guid: f817b50a737935547939950dee30d69d, type: 2}
-  _battleScene: {fileID: 11400000, guid: 15831f43bfdcee74a98ebf39a19722c2, type: 2}
 --- !u!1 &1192427184
 GameObject:
   m_ObjectHideFlags: 0
@@ -6609,7 +6575,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1975759154}
-  - component: {fileID: 1975759156}
   - component: {fileID: 1975759155}
   m_Layer: 7
   m_Name: interact_Pokeball_1
@@ -6680,22 +6645,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.9, y: 0.9}
   m_EdgeRadius: 0
---- !u!114 &1975759156
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1975759153}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7b4a8014dd7c9ea4bba63c697ab2a14f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _starterInfo: {fileID: 72231193}
-  _pokeballImage: {fileID: 1595391661}
-  _pokemonBase: {fileID: 11400000, guid: 8660c108508f5124aaccbf4d01b44574, type: 2}
-  _battleScene: {fileID: 11400000, guid: 055dc5fe60a019b478308d4b60d27363, type: 2}
 --- !u!1 &2046846328
 GameObject:
   m_ObjectHideFlags: 0
