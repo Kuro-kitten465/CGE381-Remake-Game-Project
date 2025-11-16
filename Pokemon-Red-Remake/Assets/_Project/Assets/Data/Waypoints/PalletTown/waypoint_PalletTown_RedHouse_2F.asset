@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3400af282bdb6e479cb908d89d5d91f, type: 3}
+  m_Name: waypoint_PalletTown_RedHouse_2F
+  m_EditorClassIdentifier: 
+  <SceneHolder>k__BackingField: scene_PalletTown_Red_House_2F
+  <To>k__BackingField: {fileID: 11400000, guid: a58d762eb1ba5e84e99c285cf3656383, type: 2}
+  <PosOnEnter>k__BackingField: {x: 7.5, y: 7}
+  <DirectionOnEnter>k__BackingField: 0
+  _sceneAsset: {fileID: 102900000, guid: 3118206ad8b3e044da5e6f9b58caafc3, type: 3}

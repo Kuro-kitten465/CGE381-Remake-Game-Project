@@ -40,13 +40,14 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2554925768246894251}
-  - component: {fileID: 7517301151831043515}
-  - component: {fileID: 4336234904876616643}
-  - component: {fileID: 1257227710666677649}
-  - component: {fileID: 5719492388509724221}
+  - component: {fileID: 2698384091514888025}
+  - component: {fileID: 3553769545128369433}
+  - component: {fileID: 4966033127685043344}
+  - component: {fileID: 5165862995413325678}
   - component: {fileID: 3842921509898429422}
   - component: {fileID: 1952628499224541662}
   - component: {fileID: 6427989620823665947}
+  - component: {fileID: 6266656139977629006}
   m_Layer: 6
   m_Name: Player
   m_TagString: Player
@@ -70,7 +71,7 @@ Transform:
   - {fileID: 2256784178853096644}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &7517301151831043515
+--- !u!114 &2698384091514888025
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -79,19 +80,19 @@ MonoBehaviour:
   m_GameObject: {fileID: 837419894892809541}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1005c46e3dd7a124e9007296e6c65fcd, type: 3}
+  m_Script: {fileID: 11500000, guid: 33b444b8d814f904abc04e1237c89ef6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   _detectorTranform: {fileID: 2256784178853096644}
   _interactLayer:
     serializedVersion: 2
     m_Bits: 2688
-  _grassLayer:
+  _stepOnLayer:
     serializedVersion: 2
-    m_Bits: 1024
-  _mover: {fileID: 1257227710666677649}
+    m_Bits: 1536
+  _mover: {fileID: 4966033127685043344}
   _inputReader: {fileID: 11400000, guid: cbf5a4b4582620845bf487f2e788a23c, type: 2}
---- !u!114 &4336234904876616643
+--- !u!114 &3553769545128369433
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -100,14 +101,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 837419894892809541}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ef2ef8296fd930b4a850f9fae976e94a, type: 3}
+  m_Script: {fileID: 11500000, guid: 0cf8369634a903a4da8ef3420d1956bc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _manager: {fileID: 7517301151831043515}
-  _mover: {fileID: 1257227710666677649}
-  _anim: {fileID: 5719492388509724221}
+  _manager: {fileID: 2698384091514888025}
+  _mover: {fileID: 4966033127685043344}
+  _anim: {fileID: 5165862995413325678}
+  _warpLayer:
+    serializedVersion: 2
+    m_Bits: 0
   _inputReader: {fileID: 11400000, guid: cbf5a4b4582620845bf487f2e788a23c, type: 2}
---- !u!114 &1257227710666677649
+--- !u!114 &4966033127685043344
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -116,17 +120,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 837419894892809541}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: deca595dc5fd0364fb28c897808909e8, type: 3}
+  m_Script: {fileID: 11500000, guid: f1088ea81a5150c41aac9f17aabddabf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _moveDuration: 0.325
+  _moveDuration: 0.12
   _direction: 0
   _obstructLayer:
     serializedVersion: 2
-    m_Bits: 2944
+    m_Bits: 6528
   _detectorTranform: {fileID: 2256784178853096644}
-  _anim: {fileID: 5719492388509724221}
---- !u!114 &5719492388509724221
+  _anim: {fileID: 5165862995413325678}
+--- !u!114 &5165862995413325678
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -135,7 +139,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 837419894892809541}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8e2f29a5f661883449b19f5bc48d7f30, type: 3}
+  m_Script: {fileID: 11500000, guid: d8d18b72f2dc5424bb20962352af10d7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   _anim: {fileID: 3842921509898429422}
@@ -262,3 +266,30 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.9, y: 0.9}
   m_EdgeRadius: 0
+--- !u!50 &6266656139977629006
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 837419894892809541}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 0.0001
+  m_LinearDamping: 0
+  m_AngularDamping: 0
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 7

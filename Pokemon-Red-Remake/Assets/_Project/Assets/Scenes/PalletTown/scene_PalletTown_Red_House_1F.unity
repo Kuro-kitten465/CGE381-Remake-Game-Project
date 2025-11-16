@@ -1435,7 +1435,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 479821019}
-  - component: {fileID: 479821020}
   - component: {fileID: 479821018}
   m_Layer: 7
   m_Name: interact_BookShelf
@@ -1505,23 +1504,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1192427185}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &479821020
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 479821017}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1312f44aa406a0d428fcf2f23c45645a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _interactions:
-  - InteractDirection: 0
-    Dialogue: {fileID: 11400000, guid: 8acecec46ee5dc94294b73a0ba942f14, type: 2}
-  - InteractDirection: 2
-    Dialogue: {fileID: 11400000, guid: 8acecec46ee5dc94294b73a0ba942f14, type: 2}
 --- !u!1 &547243179
 GameObject:
   m_ObjectHideFlags: 0
@@ -1903,8 +1885,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 770154857}
-  - component: {fileID: 770154859}
   - component: {fileID: 770154858}
+  - component: {fileID: 770154859}
+  - component: {fileID: 770154860}
   m_Layer: 9
   m_Name: waypoint__PalletTown_RedHouse_1F_Stair
   m_TagString: Untagged
@@ -1957,7 +1940,7 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -1982,10 +1965,54 @@ MonoBehaviour:
   m_GameObject: {fileID: 770154856}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3bd4a4c9b8c0e6f4baaeb353fe51b224, type: 3}
+  m_Script: {fileID: 11500000, guid: e8c5a48cd6a3d4c459e2fb523908e89b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _waypoint: {fileID: 11400000, guid: 5143bb09d64d2ca4f8e1769983f44adf, type: 2}
+  _waypointAsset: {fileID: 11400000, guid: a58d762eb1ba5e84e99c285cf3656383, type: 2}
+--- !u!114 &770154860
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 770154856}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d7cc72688824d440a26addba104b3f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  UpInteract:
+    InteractDirection: 3
+    OnInteract:
+      m_PersistentCalls:
+        m_Calls: []
+  DownInteract:
+    InteractDirection: 0
+    OnInteract:
+      m_PersistentCalls:
+        m_Calls: []
+  LeftInteract:
+    InteractDirection: 1
+    OnInteract:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 770154859}
+          m_TargetAssemblyTypeName: Game.Interaction.WaypointTrigger, assembly.game
+          m_MethodName: OnLeftInteract
+          m_Mode: 0
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+  RightInteract:
+    InteractDirection: 2
+    OnInteract:
+      m_PersistentCalls:
+        m_Calls: []
 --- !u!1 &824427384
 GameObject:
   m_ObjectHideFlags: 0
@@ -2118,7 +2145,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1041472036}
-  - component: {fileID: 1041472037}
+  - component: {fileID: 1041472041}
+  - component: {fileID: 1041472042}
   - component: {fileID: 1041472038}
   - component: {fileID: 1041472039}
   m_Layer: 11
@@ -2143,32 +2171,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1041472037
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1041472035}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7618ab324397068419a91fd32ba741b1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _interactions:
-  - InteractDirection: 0
-    Dialogue: {fileID: 11400000, guid: a8b841c5f7089124da9444fb45e77e2a, type: 2}
-  - InteractDirection: 3
-    Dialogue: {fileID: 11400000, guid: a8b841c5f7089124da9444fb45e77e2a, type: 2}
-  - InteractDirection: 2
-    Dialogue: {fileID: 11400000, guid: a8b841c5f7089124da9444fb45e77e2a, type: 2}
-  _upSprite: {fileID: 21300000, guid: 783ab682d1a666d45903d12464da1f41, type: 3}
-  _downSprite: {fileID: 21300000, guid: c134702de6e1947488f2d5fc18a70f38, type: 3}
-  _leftSprite: {fileID: 21300000, guid: 2b7bea544b47ab44088c56fd088cea91, type: 3}
-  _rightSprite: {fileID: 21300000, guid: 2a76d1b97f39d514583e97b5ba453a5e, type: 3}
-  _renderer: {fileID: 1041472038}
-  _dialogueBeforemeetingOak: {fileID: 11400000, guid: 34ebe953c0285414cbc03e92c6fe9ddd, type: 2}
-  _dialogueAftermeetingOak: {fileID: 0}
 --- !u!212 &1041472038
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2270,6 +2272,105 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &1041472041
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1041472035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f71561eb694d9e46a5a307a7cbe30d5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  UpSprite: {fileID: 21300000, guid: 783ab682d1a666d45903d12464da1f41, type: 3}
+  DownSprite: {fileID: 21300000, guid: c134702de6e1947488f2d5fc18a70f38, type: 3}
+  LeftSprite: {fileID: 21300000, guid: 2b7bea544b47ab44088c56fd088cea91, type: 3}
+  RightSprite: {fileID: 21300000, guid: 2a76d1b97f39d514583e97b5ba453a5e, type: 3}
+  _dialogueNotMetProfOak: {fileID: 11400000, guid: ab9c8efd31517134d939959e4554083d, type: 2}
+  _dialogueMetProfOak: {fileID: 11400000, guid: 58944bc83927ffc49974466da685b028, type: 2}
+  _enableDebugger: 1
+--- !u!114 &1041472042
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1041472035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d7cc72688824d440a26addba104b3f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  UpInteract:
+    InteractDirection: 3
+    OnInteract:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1041472041}
+          m_TargetAssemblyTypeName: Game.Character.NPC.RedMom, assembly.game
+          m_MethodName: OnUpInteract
+          m_Mode: 0
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+  DownInteract:
+    InteractDirection: 0
+    OnInteract:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1041472041}
+          m_TargetAssemblyTypeName: Game.Character.NPC.RedMom, assembly.game
+          m_MethodName: OnDownInteract
+          m_Mode: 0
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+  LeftInteract:
+    InteractDirection: 1
+    OnInteract:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1041472041}
+          m_TargetAssemblyTypeName: Game.Character.NPC.RedMom, assembly.game
+          m_MethodName: OnLeftInteract
+          m_Mode: 0
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+  RightInteract:
+    InteractDirection: 2
+    OnInteract:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1041472041}
+          m_TargetAssemblyTypeName: Game.Character.NPC.RedMom, assembly.game
+          m_MethodName: OnRightInteract
+          m_Mode: 0
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
 --- !u!1 &1056893550
 GameObject:
   m_ObjectHideFlags: 0
@@ -2605,6 +2706,99 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!1 &1100893612
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1100893613}
+  - component: {fileID: 1100893615}
+  - component: {fileID: 1100893614}
+  m_Layer: 0
+  m_Name: Zone Trigger
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1100893613
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1100893612}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 5, y: 4, z: 0}
+  m_LocalScale: {x: 8, y: 8, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &1100893614
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1100893612}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
+--- !u!114 &1100893615
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1100893612}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4edec71373b9b1d4ba6b918e011c4943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _zoneAsset: {fileID: 11400000, guid: 8acf1d6367cb68a44960400f2bcc34be, type: 2}
+  _musicChannel: {fileID: 11400000, guid: 37fc68ef1d1ea71448a4f56fe12d49ff, type: 2}
 --- !u!1 &1192427184
 GameObject:
   m_ObjectHideFlags: 0
@@ -2794,8 +2988,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1501987903}
-  - component: {fileID: 1501987905}
   - component: {fileID: 1501987904}
+  - component: {fileID: 1501987906}
+  - component: {fileID: 1501987905}
   m_Layer: 9
   m_Name: waypoint__PalletTown_RedHouse_1F_Door
   m_TagString: Untagged
@@ -2812,7 +3007,7 @@ Transform:
   m_GameObject: {fileID: 1501987902}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 4, y: -0.5, z: 0}
+  m_LocalPosition: {x: 4, y: 0.5, z: 0}
   m_LocalScale: {x: 2, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2873,10 +3068,54 @@ MonoBehaviour:
   m_GameObject: {fileID: 1501987902}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3bd4a4c9b8c0e6f4baaeb353fe51b224, type: 3}
+  m_Script: {fileID: 11500000, guid: e8c5a48cd6a3d4c459e2fb523908e89b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _waypoint: {fileID: 11400000, guid: 4bf16b0d16bd5564c86116d5e3c5c3c9, type: 2}
+  _waypointAsset: {fileID: 11400000, guid: 75cace6ece3bea94a85f3eb70a3a4246, type: 2}
+--- !u!114 &1501987906
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1501987902}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d7cc72688824d440a26addba104b3f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  UpInteract:
+    InteractDirection: 3
+    OnInteract:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1501987905}
+          m_TargetAssemblyTypeName: Game.Interaction.WaypointTrigger, assembly.game
+          m_MethodName: OnUpInteract
+          m_Mode: 0
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+  DownInteract:
+    InteractDirection: 0
+    OnInteract:
+      m_PersistentCalls:
+        m_Calls: []
+  LeftInteract:
+    InteractDirection: 1
+    OnInteract:
+      m_PersistentCalls:
+        m_Calls: []
+  RightInteract:
+    InteractDirection: 2
+    OnInteract:
+      m_PersistentCalls:
+        m_Calls: []
 --- !u!1 &1525305126
 GameObject:
   m_ObjectHideFlags: 0
@@ -3119,6 +3358,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1696693639}
   - component: {fileID: 1696693641}
+  - component: {fileID: 1696693642}
   - component: {fileID: 1696693640}
   m_Layer: 7
   m_Name: interact_MomTV
@@ -3197,16 +3437,93 @@ MonoBehaviour:
   m_GameObject: {fileID: 1696693638}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1312f44aa406a0d428fcf2f23c45645a, type: 3}
+  m_Script: {fileID: 11500000, guid: cba070ddea6003e40a57a6ddedc7e183, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _interactions:
-  - InteractDirection: 0
-    Dialogue: {fileID: 11400000, guid: 5c8f381aef6afe14c851099e051f27ec, type: 2}
-  - InteractDirection: 1
-    Dialogue: {fileID: 11400000, guid: 4d32423f5a3f5da4d8d66fa4d401d32b, type: 2}
-  - InteractDirection: 2
-    Dialogue: {fileID: 11400000, guid: 4d32423f5a3f5da4d8d66fa4d401d32b, type: 2}
+  OnUpDialogueAsset: {fileID: 11400000, guid: 039454e6aa0b365429005bc5ebb06808, type: 2}
+  OnDownDialogueAsset: {fileID: 11400000, guid: 039454e6aa0b365429005bc5ebb06808, type: 2}
+  OnLeftDialogueAsset: {fileID: 11400000, guid: 039454e6aa0b365429005bc5ebb06808, type: 2}
+  OnRightDialogueAsset: {fileID: 11400000, guid: 039454e6aa0b365429005bc5ebb06808, type: 2}
+--- !u!114 &1696693642
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696693638}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d7cc72688824d440a26addba104b3f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  UpInteract:
+    InteractDirection: 3
+    OnInteract:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1696693641}
+          m_TargetAssemblyTypeName: Game.Managers.Dialogue.DialogueRunner, assembly.game
+          m_MethodName: OnUpInteract
+          m_Mode: 0
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+  DownInteract:
+    InteractDirection: 0
+    OnInteract:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1696693641}
+          m_TargetAssemblyTypeName: Game.Managers.Dialogue.DialogueRunner, assembly.game
+          m_MethodName: OnDownInteract
+          m_Mode: 0
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+  LeftInteract:
+    InteractDirection: 1
+    OnInteract:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1696693641}
+          m_TargetAssemblyTypeName: Game.Managers.Dialogue.DialogueRunner, assembly.game
+          m_MethodName: OnLeftInteract
+          m_Mode: 0
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+  RightInteract:
+    InteractDirection: 2
+    OnInteract:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1696693641}
+          m_TargetAssemblyTypeName: Game.Managers.Dialogue.DialogueRunner, assembly.game
+          m_MethodName: OnRightInteract
+          m_Mode: 0
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
 --- !u!1 &1805507449
 GameObject:
   m_ObjectHideFlags: 0
@@ -3701,3 +4018,4 @@ SceneRoots:
   - {fileID: 1525305127}
   - {fileID: 313206894}
   - {fileID: 1041472036}
+  - {fileID: 1100893613}
